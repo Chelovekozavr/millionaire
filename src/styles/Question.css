@@ -1,0 +1,9 @@
+.qusetion-container {
+  position: absolute;
+  top: 0;
+  margin: 60px;
+  display: flex;
+  align-items: space-between;
+  justify-content: center;
+  height: 100vh;
+}
